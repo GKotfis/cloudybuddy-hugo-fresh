@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="700"
+   height="250"
+   viewBox="0 0 185.20833 66.145833"
+   version="1.1"
+   id="svg541"
+   inkscape:export-filename="cloudybuddy.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="cloudybuddy-alt.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview543"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4619084"
+     inkscape:cx="348.51706"
+     inkscape:cy="85.162657"
+     inkscape:window-width="1728"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs538" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.024037,-87.741407)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.0895px;font-family:Futura;-inkscape-font-specification:'Futura Bold';letter-spacing:0px;opacity:1;fill:#b8d2f5;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+       x="21.281527"
+       y="117.96145"
+       id="text786"><tspan
+         sodipodi:role="line"
+         id="tspan784"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.0895px;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#b8d2f5;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+         x="21.281527"
+         y="117.96145">CLOUDY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.0895px;font-family:Futura;-inkscape-font-specification:'Futura Bold';opacity:1;fill:#89f6f6;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-opacity:1;stroke-dasharray:none"
+       x="69.381477"
+       y="148.08537"
+       id="text3781"
+       inkscape:export-filename="cloudybuddy-alt.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3779"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.0895px;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#89f6f6;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-opacity:1;stroke-dasharray:none"
+         x="69.381477"
+         y="148.08537">BUDDY</tspan></text>
+  </g>
+</svg>
